@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+README.md
+References/
+health-data-cleaned.csv
+health_data_main.ipynb
+main_fail.ipynb
+output-toggle.tpl
